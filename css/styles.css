@@ -1,0 +1,123 @@
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.profile {
+  margin-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px;
+}
+
+.middle-container {
+  margin-top: 100px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 260px;
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.kilua {
+  width: 16%;
+}
+
+.footer-link {
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.code-image {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.chillies-image {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.intro {
+  margin: auto;
+  width: 40%;
+}
+
+.btn {
+  margin: 50px auto;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  line-height: 1px;
+  color: #FFFFFF;
+  font-size: 21px;
+  font-weight: 100;
+  padding: 21px;
+  background-color: #66BFBF;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #FFFFFF 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+body {
+  background-color: #edf2f5;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-color: #40514E;
+  border-style: dotted none none none;
+  border-top-width: 10px;
+  margin: 100px auto;
+  width: 6%;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 2;
+}
