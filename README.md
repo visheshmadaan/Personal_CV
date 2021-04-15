@@ -1,2 +1,2 @@
-# css - cv
-cv using html and css
+My personal CV website
+
